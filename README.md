@@ -13,5 +13,5 @@ Learn more about this project on [Devpost](https://devpost.com/software/turple)
 ## Project Setup
 
 ```sh
-npm install
+docker compose -f "docker\docker-compose.yml" up -d --build
 ```
